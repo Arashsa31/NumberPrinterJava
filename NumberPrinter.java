@@ -16,15 +16,14 @@ public class NumberPrinter
 			 */
 			if (i%2 == 0)	
 			{
-				System.out.print(i);
+				System.out.print(i);	
 				
 				int comma = MAX - 1;
 				if (i < comma)
 				{
 					System.out.print(", ");
 				}				
-			}	
-			
+			}			
 			i++;
 		}
 	}
