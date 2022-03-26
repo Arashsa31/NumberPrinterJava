@@ -1,2 +1,2 @@
 # NumberPrinter
-This program prints every other numbers and stops the comma between them from printing at the end.
+This program prints every other numbers and stops the comma from printing at the end. 
