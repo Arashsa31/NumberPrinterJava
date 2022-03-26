@@ -19,7 +19,7 @@ public class NumberPrinter
 				System.out.print(i);
 				
 				int comma = MAX - 1;
-				if(i<comma)
+				if(i < comma)
 				{
 					System.out.print(",");
 				}				
