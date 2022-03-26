@@ -11,8 +11,8 @@ public class NumberPrinter
 		while (i <= MAX) 
 		{
 			/** 
-			 * i%2 == 0 for even number
-			 * i%2 == 1 for odd number
+			 * if (i%2 == 0) for even number
+			 * if (i%2 == 1) for odd number
 			 */
 			if (i%2 == 0)	
 			{
