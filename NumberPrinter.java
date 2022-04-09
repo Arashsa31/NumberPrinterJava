@@ -20,9 +20,7 @@ public class NumberPrinter
 				
 				int comma = MAX - 1;
 				if (i < comma)
-				{
-					System.out.print(", ");
-				}				
+					System.out.print(", ");			
 			}			
 			i++;
 		}
